@@ -2,7 +2,8 @@
 
 ![Java badge](https://img.shields.io/static/v1?label=Java&message=passing&color=green&style=flat-square&logo=java&logoColor=white&logoWidth=20)
 ![Spring badge](https://img.shields.io/static/v1?label=Spring&message=passing&color=green&style=flat-square&logo=spring&logoColor=white&logoWidth=20)
-![React badge](https://img.shields.io/static/v1?label=ReactJS&message=pending&color=yellow&style=flat-square&logo=react&logoColor=white&logoWidth=20)
+![Python badge](https://img.shields.io/static/v1?label=Python&message=In%20progress&color=yellow&style=flat-square&logo=python&logoColor=white&logoWidth=20)
+![React badge](https://img.shields.io/static/v1?label=ReactJS&message=In%20progress&color=yellow&style=flat-square&logo=react&logoColor=white&logoWidth=20)
 
 <!--
 **dovixman/dovixman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
