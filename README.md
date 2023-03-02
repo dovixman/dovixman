@@ -10,7 +10,7 @@
 ![Docker badge](https://img.shields.io/static/v1?label=Docker&message=passing&color=green&style=flat-square&logo=docker&logoColor=white&logoWidth=20)
 ![Kubernetes badge](https://img.shields.io/static/v1?label=Kubernetes&message=In%20progress&color=yellow&style=flat-square&logo=kubernetes&logoColor=white&logoWidth=20)
 
-![VSCode badge](https://img.shields.io/static/v1?label=VSCode&message=VSCode&color=blue&style=flat-square&logo=vscode&logoColor=white&logoWidth=20)
+![VSCode badge](https://img.shields.io/static/v1?label=VSCode&message=VSCode&color=blue&style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=20)
 
 
 ---
