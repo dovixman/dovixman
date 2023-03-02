@@ -3,7 +3,7 @@
 ![Java badge](https://img.shields.io/static/v1?label=Java&message=passing&color=green&style=flat-square&logo=openjdk&logoColor=white&logoWidth=20)
 ![Spring badge](https://img.shields.io/static/v1?label=Spring&message=passing&color=green&style=flat-square&logo=spring&logoColor=white&logoWidth=20)
 ![React badge](https://img.shields.io/static/v1?label=ReactJS&message=passsing&color=green&style=flat-square&logo=react&logoColor=white&logoWidth=20)
-![JS badge](https://img.shields.io/static/v1?label=Javascript&message=passsing&color=green&style=flat-square&logo=javascript&logoColor=white&logoWidth=20)
+![JS badge](https://img.shields.io/static/v1?label=Javascript&message=&passsing&color=green&style=flat-square&logo=javascript&logoColor=white&logoWidth=20)
 ![Python badge](https://img.shields.io/static/v1?label=Python&message=In%20progress&color=yellow&style=flat-square&logo=python&logoColor=white&logoWidth=20)
 ![Go badge](https://img.shields.io/static/v1?label=Go&message=In%20progress&color=yellow&style=flat-square&logo=go&logoColor=white&logoWidth=20)
 
