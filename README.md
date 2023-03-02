@@ -8,6 +8,7 @@
 ![Go badge](https://img.shields.io/static/v1?label=Go&message=In%20progress&color=yellow&style=flat-square&logo=go&logoColor=white&logoWidth=20)
 
 ![Mongo badge](https://img.shields.io/static/v1?label=Mongo%20DB&message=passing&color=green&style=flat-square&logo=mongodb&logoColor=white&logoWidth=20)
+![MinIO badge](https://img.shields.io/static/v1?label=MinIO&message=passing&color=green&style=flat-square&logo=minio&logoColor=white&logoWidth=20)
 
 ![Docker badge](https://img.shields.io/static/v1?label=Docker&message=passing&color=green&style=flat-square&logo=docker&logoColor=white&logoWidth=20)
 ![Kubernetes badge](https://img.shields.io/static/v1?label=Kubernetes&message=In%20progress&color=yellow&style=flat-square&logo=kubernetes&logoColor=white&logoWidth=20)
